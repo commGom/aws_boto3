@@ -16,4 +16,5 @@ def delete_user(username):
 # for user in all_usernames:
 #     delete_user(user)
 
-delete_user('updatedtestuser')
+# delete_user('updatedtestuser')
+delete_user('testuser')
