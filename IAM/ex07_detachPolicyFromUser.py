@@ -13,4 +13,5 @@ def detach_policy_from_user(username,policy_arn):
 username='testuser'
 policy_arn='arn:aws:iam::343542922052:policy/pyFullAccess'
 
-detach_policy_from_user(username,policy_arn)
+# detach_policy_from_user(username,policy_arn)
+detach_policy_from_user('updatedtestuser',policy_arn)
