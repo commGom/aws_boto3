@@ -1,0 +1,9 @@
+# https://hands-on.cloud/working-with-cloudwatch-in-python-using-boto3/
+
+# https://docs.aws.amazon.com/ko_kr/AmazonCloudWatch/latest/monitoring/viewing_metrics_with_cloudwatch.html
+
+# 특정리소스 통계 얻기 : https://docs.aws.amazon.com/ko_kr/AmazonCloudWatch/latest/monitoring/US_SingleMetricPerInstance.html
+
+# boto3 예제 git : https://github.com/awsdocs/aws-doc-sdk-examples/tree/main/python
+
+# cloudwatch 보는 cli tool : https://www.youtube.com/watch?v=5CfLAutwV2Q
