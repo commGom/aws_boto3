@@ -1,0 +1,3 @@
+Hello Friends-2
+
+Welcome to AWS Course with python and boto3-2
