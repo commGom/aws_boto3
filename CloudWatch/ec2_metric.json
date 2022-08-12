@@ -1,0 +1,1534 @@
+{
+    "Metrics": [
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "MetadataNoToken",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0e3d765cfdff34dc5"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "NetworkPacketsIn",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0e3d765cfdff34dc5"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "NetworkPacketsOut",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0e3d765cfdff34dc5"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "CPUUtilization",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0e3d765cfdff34dc5"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "NetworkIn",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0e3d765cfdff34dc5"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "NetworkOut",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0e3d765cfdff34dc5"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "DiskReadBytes",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0e3d765cfdff34dc5"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "DiskWriteBytes",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0e3d765cfdff34dc5"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "DiskReadOps",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0e3d765cfdff34dc5"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "DiskWriteOps",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0e3d765cfdff34dc5"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "CPUCreditUsage",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0e3d765cfdff34dc5"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "CPUCreditBalance",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0e3d765cfdff34dc5"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "CPUSurplusCreditBalance",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0e3d765cfdff34dc5"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "CPUSurplusCreditsCharged",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0e3d765cfdff34dc5"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "StatusCheckFailed_System",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0e3d765cfdff34dc5"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "StatusCheckFailed_Instance",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0e3d765cfdff34dc5"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "StatusCheckFailed",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0e3d765cfdff34dc5"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "StatusCheckFailed_System",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-062a590aabe194483"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "StatusCheckFailed_Instance",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-062a590aabe194483"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "StatusCheckFailed",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-062a590aabe194483"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "MetadataNoToken",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-062a590aabe194483"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "NetworkPacketsIn",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-062a590aabe194483"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "NetworkPacketsOut",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-062a590aabe194483"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "CPUUtilization",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-062a590aabe194483"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "NetworkIn",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-062a590aabe194483"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "CPUCreditUsage",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-062a590aabe194483"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "CPUCreditBalance",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-062a590aabe194483"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "CPUSurplusCreditBalance",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-062a590aabe194483"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "CPUSurplusCreditsCharged",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-062a590aabe194483"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "NetworkOut",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-062a590aabe194483"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "DiskReadBytes",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-062a590aabe194483"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "DiskWriteBytes",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-062a590aabe194483"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "DiskReadOps",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-062a590aabe194483"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "DiskWriteOps",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-062a590aabe194483"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "MetadataNoToken",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-033061f0c038defdc"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "MetadataNoToken",
+            "Dimensions": [
+                {
+                    "Name": "AutoScalingGroupName",
+                    "Value": "ASG"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "CPUCreditUsage",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0f14400b34df31b5c"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "CPUCreditBalance",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0f14400b34df31b5c"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "CPUSurplusCreditBalance",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0f14400b34df31b5c"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "CPUSurplusCreditsCharged",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0f14400b34df31b5c"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "NetworkPacketsIn",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0f14400b34df31b5c"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "NetworkPacketsOut",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0f14400b34df31b5c"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "CPUUtilization",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0f14400b34df31b5c"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "NetworkIn",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0f14400b34df31b5c"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "NetworkOut",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0f14400b34df31b5c"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "DiskReadBytes",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0f14400b34df31b5c"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "DiskWriteBytes",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0f14400b34df31b5c"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "DiskReadOps",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0f14400b34df31b5c"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "DiskWriteOps",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0f14400b34df31b5c"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "NetworkPacketsIn",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0fef0a19efa5106ab"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "NetworkPacketsOut",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0fef0a19efa5106ab"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "CPUUtilization",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0fef0a19efa5106ab"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "NetworkIn",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0fef0a19efa5106ab"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "CPUCreditBalance",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0fef0a19efa5106ab"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "CPUSurplusCreditBalance",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0fef0a19efa5106ab"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "CPUSurplusCreditsCharged",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0fef0a19efa5106ab"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "NetworkOut",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0fef0a19efa5106ab"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "DiskReadBytes",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0fef0a19efa5106ab"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "DiskWriteBytes",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0fef0a19efa5106ab"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "DiskReadOps",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0fef0a19efa5106ab"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "DiskWriteOps",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0fef0a19efa5106ab"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "CPUCreditUsage",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0fef0a19efa5106ab"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "StatusCheckFailed",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-033061f0c038defdc"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "StatusCheckFailed",
+            "Dimensions": [
+                {
+                    "Name": "AutoScalingGroupName",
+                    "Value": "ASG"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "StatusCheckFailed_System",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0fef0a19efa5106ab"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "StatusCheckFailed_Instance",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0fef0a19efa5106ab"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "StatusCheckFailed",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0fef0a19efa5106ab"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "StatusCheckFailed_System",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-033061f0c038defdc"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "StatusCheckFailed_System",
+            "Dimensions": [
+                {
+                    "Name": "AutoScalingGroupName",
+                    "Value": "ASG"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "StatusCheckFailed_Instance",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-033061f0c038defdc"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "StatusCheckFailed_Instance",
+            "Dimensions": [
+                {
+                    "Name": "AutoScalingGroupName",
+                    "Value": "ASG"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "StatusCheckFailed_System",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0f14400b34df31b5c"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "StatusCheckFailed_Instance",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0f14400b34df31b5c"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "StatusCheckFailed",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0f14400b34df31b5c"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "MetadataNoToken",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-07a142d3c4fe58f26"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "CPUUtilization",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0b73d78e81cdc9809"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "NetworkIn",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0b73d78e81cdc9809"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "NetworkOut",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0b73d78e81cdc9809"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "DiskReadBytes",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0b73d78e81cdc9809"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "DiskWriteBytes",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0b73d78e81cdc9809"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "DiskReadOps",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0b73d78e81cdc9809"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "DiskWriteOps",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0b73d78e81cdc9809"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "CPUCreditUsage",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0caaf5dbf5ee7f035"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "CPUCreditBalance",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0caaf5dbf5ee7f035"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "CPUSurplusCreditsCharged",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0caaf5dbf5ee7f035"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "NetworkPacketsIn",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0caaf5dbf5ee7f035"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "NetworkPacketsOut",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0caaf5dbf5ee7f035"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "CPUUtilization",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0caaf5dbf5ee7f035"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "NetworkIn",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0caaf5dbf5ee7f035"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "NetworkOut",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0caaf5dbf5ee7f035"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "DiskReadBytes",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0caaf5dbf5ee7f035"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "DiskWriteBytes",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0caaf5dbf5ee7f035"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "DiskReadOps",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0caaf5dbf5ee7f035"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "DiskWriteOps",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0caaf5dbf5ee7f035"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "CPUSurplusCreditBalance",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0caaf5dbf5ee7f035"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "MetadataNoToken",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0caaf5dbf5ee7f035"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "StatusCheckFailed_System",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0b73d78e81cdc9809"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "StatusCheckFailed_Instance",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0b73d78e81cdc9809"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "StatusCheckFailed",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0b73d78e81cdc9809"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "StatusCheckFailed_System",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-07a142d3c4fe58f26"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "StatusCheckFailed_Instance",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-07a142d3c4fe58f26"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "StatusCheckFailed",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-07a142d3c4fe58f26"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "StatusCheckFailed_System",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0caaf5dbf5ee7f035"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "StatusCheckFailed_Instance",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0caaf5dbf5ee7f035"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "StatusCheckFailed",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0caaf5dbf5ee7f035"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "MetadataNoToken",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0b73d78e81cdc9809"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "NetworkPacketsIn",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-07a142d3c4fe58f26"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "NetworkPacketsOut",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-07a142d3c4fe58f26"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "CPUUtilization",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-07a142d3c4fe58f26"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "NetworkIn",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-07a142d3c4fe58f26"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "NetworkOut",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-07a142d3c4fe58f26"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "DiskReadBytes",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-07a142d3c4fe58f26"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "DiskWriteBytes",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-07a142d3c4fe58f26"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "DiskReadOps",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-07a142d3c4fe58f26"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "DiskWriteOps",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-07a142d3c4fe58f26"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "CPUCreditUsage",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-07a142d3c4fe58f26"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "CPUCreditBalance",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-07a142d3c4fe58f26"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "CPUSurplusCreditBalance",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-07a142d3c4fe58f26"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "CPUSurplusCreditsCharged",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-07a142d3c4fe58f26"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "CPUCreditUsage",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0b73d78e81cdc9809"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "CPUCreditBalance",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0b73d78e81cdc9809"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "CPUSurplusCreditBalance",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0b73d78e81cdc9809"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "CPUSurplusCreditsCharged",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0b73d78e81cdc9809"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "NetworkPacketsIn",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0b73d78e81cdc9809"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "NetworkPacketsOut",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0b73d78e81cdc9809"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "MetadataNoToken",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0fef0a19efa5106ab"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "MetadataNoToken",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0f14400b34df31b5c"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "NetworkPacketsIn",
+            "Dimensions": [
+                {
+                    "Name": "AutoScalingGroupName",
+                    "Value": "ASG"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "NetworkPacketsOut",
+            "Dimensions": [
+                {
+                    "Name": "AutoScalingGroupName",
+                    "Value": "ASG"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "CPUUtilization",
+            "Dimensions": [
+                {
+                    "Name": "AutoScalingGroupName",
+                    "Value": "ASG"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "NetworkIn",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-033061f0c038defdc"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "NetworkIn",
+            "Dimensions": [
+                {
+                    "Name": "AutoScalingGroupName",
+                    "Value": "ASG"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "NetworkOut",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-033061f0c038defdc"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "DiskReadBytes",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-033061f0c038defdc"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "DiskReadBytes",
+            "Dimensions": [
+                {
+                    "Name": "AutoScalingGroupName",
+                    "Value": "ASG"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "DiskWriteBytes",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-033061f0c038defdc"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "DiskWriteBytes",
+            "Dimensions": [
+                {
+                    "Name": "AutoScalingGroupName",
+                    "Value": "ASG"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "DiskReadOps",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-033061f0c038defdc"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "DiskReadOps",
+            "Dimensions": [
+                {
+                    "Name": "AutoScalingGroupName",
+                    "Value": "ASG"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "DiskWriteOps",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-033061f0c038defdc"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "DiskWriteOps",
+            "Dimensions": [
+                {
+                    "Name": "AutoScalingGroupName",
+                    "Value": "ASG"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "CPUCreditUsage",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-033061f0c038defdc"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "CPUCreditUsage",
+            "Dimensions": [
+                {
+                    "Name": "AutoScalingGroupName",
+                    "Value": "ASG"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "CPUCreditBalance",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-033061f0c038defdc"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "CPUCreditBalance",
+            "Dimensions": [
+                {
+                    "Name": "AutoScalingGroupName",
+                    "Value": "ASG"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "CPUSurplusCreditBalance",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-033061f0c038defdc"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "CPUSurplusCreditBalance",
+            "Dimensions": [
+                {
+                    "Name": "AutoScalingGroupName",
+                    "Value": "ASG"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "CPUSurplusCreditsCharged",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-033061f0c038defdc"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "CPUSurplusCreditsCharged",
+            "Dimensions": [
+                {
+                    "Name": "AutoScalingGroupName",
+                    "Value": "ASG"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "NetworkPacketsOut",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-033061f0c038defdc"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "CPUUtilization",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-033061f0c038defdc"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "NetworkOut",
+            "Dimensions": [
+                {
+                    "Name": "AutoScalingGroupName",
+                    "Value": "ASG"
+                }
+            ]
+        },
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "NetworkPacketsIn",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-033061f0c038defdc"
+                }
+            ]
+        }
+    ]
+}

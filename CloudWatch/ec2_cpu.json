@@ -1,0 +1,14 @@
+{
+    "Metrics": [
+        {
+            "Namespace": "AWS/EC2",
+            "MetricName": "CPUUtilization",
+            "Dimensions": [
+                {
+                    "Name": "InstanceId",
+                    "Value": "i-0e3d765cfdff34dc5"
+                }
+            ]
+        }
+    ]
+}
